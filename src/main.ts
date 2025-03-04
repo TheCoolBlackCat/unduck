@@ -22,7 +22,7 @@ function noSearchDefaultPageRender() {
         </div>
       </div>
       <footer class="footer">
-        <a href="https://tdhc.uk" target="_blank">My Website</a>
+        <a href="https://tdhc.uk" target="_blank">tdhc</a>
         •
         <a href="https://t3.chat" target="_blank">t3.chat</a>
         •

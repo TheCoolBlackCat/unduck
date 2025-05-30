@@ -25,7 +25,7 @@ export const bangs = [
     r: 0,
     s: "Le Chat",
     sc: "AI",
-    t: "lch",
+    t: "lec",
     u: "https://chat.mistral.ai/chat?q={{{s}}}",
   },
   {
